@@ -8,4 +8,8 @@ public class test {
         System.out.println("孙维辰");
         System.out.println("响叮当响叮当");
     }
+
+    public void changed(){
+        System.out.println("这是我新添加的破玩意");
+    }
 }
