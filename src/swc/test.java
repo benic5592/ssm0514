@@ -6,5 +6,6 @@ public class test {
     }
     public void swc(){
         System.out.println("孙维辰");
+        System.out.println("响叮当响叮当");
     }
 }
