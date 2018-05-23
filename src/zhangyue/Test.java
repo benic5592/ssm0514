@@ -7,5 +7,6 @@ public class Test {
 
     public void zhangyue(){
         System.out.println("zhangyue");
+        System.out.println("滴滴……");
     }
 }
