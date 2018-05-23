@@ -6,5 +6,9 @@ public class Test {
     }
     public void gyx(){
         System.out.println("gyx");
+        System.out.println("gyx");
+        System.out.println("gyx");
+        System.out.println("gyx");
+        System.out.println("gyx");
     }
 }
