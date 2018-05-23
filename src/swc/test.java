@@ -7,4 +7,8 @@ public class test {
     public void swc(){
         System.out.println("孙维辰");
     }
+
+    public void changed(){
+        System.out.println("这是我新添加的破玩意");
+    }
 }
