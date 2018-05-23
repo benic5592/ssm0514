@@ -6,7 +6,7 @@ public class Test {
     }
 
     public void liuming() {
-        System.out.println("liuming");
+        System.out.println("liuminglx");
         System.out.println("liuming");
         System.out.println("liuming");
         System.out.println("liuming");
