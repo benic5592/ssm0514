@@ -7,5 +7,7 @@ public class Test {
 
     public void lyj(){
         System.out.println("刘雨健");
+        System.out.println("刘雨健");
+        System.out.println("刘雨健");
     }
 }
